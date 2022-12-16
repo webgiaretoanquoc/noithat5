@@ -1,0 +1,150 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+iframe{width:100% !important;}
+#related_posts ul{width:100%}.blog-single related_posts ul li.comments-area{display:inline-block} .bai-viet .post-item .chi-phi-du-kien, .page-right-sidebar .large-columns-1 .post-item .chi-phi-du-kien{display:none}.tabbed-content .nav{margin-left:0 !important} .page-inner ul{margin-left:20px}
+#related_posts ul li h4{height: 45px; overflow: hidden; font-size:16px; font-weight:normal; line-height:22px; margin-top:8px;margin-bottom:0}.fb_iframe_widget_fluid span{background: white}.post {
+	margin: 0 0 15px;
+}
+#related_posts ul li{padding:8px; width:33.33%; margin-bottom:0; float: left; list-style:none}#related_posts{width: 100%; display: inline-block; background: white; padding:10px}.row-small>.col{padding:0px 9.8px 0px}#wp-live-chat p{padding-left:5px}#wplc_chatmsg{padding-left: 0px !important;}.wplc_offline{font-size: 15px;}.thiet-ke-noi-that .cot9 .portfolio-box .portfolio-box-title{font-weight: normal;
+	letter-spacing: 0;
+	font-size: 14px;
+	line-height: 21px;} .thiet-ke-noi-that .cot9 .portfolio-box .show-on-hover{display:none} 
+.absolute-footer{padding:10px 0 10px; font-size:13px}
+.footer-secondary{padding:0} .thiet-ke-noi-that .cot9 .post-item .box-text .is-divider, .thi-cong-noi-that .cot9 .post-item .box-text .is-divider, .blog-single .entry-header .entry-category, .blog-single .entry-image{display:none} 
+.blog-single .large-9{padding-right:20px}.blog-single .entry-content {font-size:15px}.blog-single .entry-title{font-size:20px; font-weight:normal; color:#055263; margin-bottom:0px}.bai-viet .post-item .box-vertical .post-title:hover{color: #066928} .sub-menu li a{background: white; padding: 6px 15px; border-radius:3px;}
+.sub-menu li a:hover{    background: #f7f7f7;} .sub-menu li{margin-bottom:20px; list-style:none; margin-right:10px; float: left;}  .sub-menu{display:inline-block; margin-top:10px; margin-left:-8px}.is-divider{margin: 8px 0px; max-width:100%; height:1px !important}.blog-single .entry-header-text-top{padding-bottom:0} .blog-single .entry-content{padding-top:0px}.title-bao-gia{    display: block;
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: normal;
+	color: #00252d;}.thong-tin-bv .key{font-weight:bold}.thong-tin-bv .chi_phi{color: #ffe200; font-size: 18px}.tai-bao-gia {font-size:15px}.tai-bao-gia .left{width: 40%; float: left;}.tai-bao-gia .clearboth{clear:both} .tai-bao-gia .right{width: 60%; float: right; padding-left: 10px}.tai-bao-gia{width: 100%;    background: white;
+		padding: 10px; display:block}.chi-phi-du-kien .left{width:70%; float: left} .chi-phi-du-kien .right{width:30%; float: right; color: #b5b5b5; text-align:right; font-size:15px; padding-top:2px}.clearboth{clear:both} .chi-phi-du-kien{display: flex; 
+			color: #d01419;
+			font-size:17px;    margin-top: 5px;}.thiet-ke-noi-that .cot9 .chi-phi-du-kien, .thi-cong-noi-that .cot9 .chi-phi-du-kien{display:none} .cate-page .col .box-blog-post .is-divider{margin-bottom:0}.thong-tin-bv{    background: #055263;
+				padding: 10px;
+				margin: 0 auto;
+				border: 1px dashed #00252d;
+				margin-top: 10px;
+				color: white;
+				border-radius: 3px;
+				font-size: 15px;
+				line-height: 28px;}.mo-ta-bv h2{font-size:16px;}.body-section{margin-bottom:15px}.body-section .cot3 .col-inner{border:1px solid #d2d1cf;border-radius:3px}.gioi-thieu-sidebar p{margin-bottom:10px}.body-section .cot3 .col-inner:hover{box-shadow:0 0 10px #b3b3b3;border:1px solid #d2d1cf;border-radius:3px}.gioi-thieu-sidebar .content{border-bottom:1px dashed #d2d2d0;margin-bottom:10px}.gioi-thieu-sidebar .content p{text-align:justify;font-size:15px;margin-bottom:10px}.gioi-thieu-sidebar .view-more a{color:#eb0b15}.gioi-thieu-sidebar .view-more a:hover{text-decoration:underline}.gioi-thieu-sidebar h3{font-size:17px;color:#00252d;border-bottom:1px dashed #d2d2d0;padding-bottom:10px}.off-canvas .nav-vertical>li>a{padding-top: 10px;
+					padding-bottom: 10px;
+}.blog-archive #breadcrumbs{margin-left:-9px; margin-right:-8px}.blog-single .comments-area{    background: white;
+	padding: 10px;
+	border-radius: 3px;
+	border: 1px solid gainsboro;
+	margin-top: 10px;}.body-section .cot3{border-radius:3px;font-size:14px}#breadcrumbs{font-size: 13px; color: gray; background:white;padding:8px 10px;border-radius:3px;border:1px solid #e0e0e0;border-bottom:1px solid #c3c3c3;margin-bottom:10px}.tabbed-content .nav>li{margin-right:0}.page-wrapper .large-3{padding-left:0}.page-wrapper .page-inner{font-size:15px;background:white;padding:10px;border-radius:3px;border:1px solid #e0e0e0}.page-wrapper .large-3 #secondary{background:white;padding:10px;border-radius:3px;border:1px solid #e0e0e0}.tabbed-content .nav>li>a{padding:8px 10px;font-weight:normal;letter-spacing:0;font-size:16px; color: #3a3a3a}span.widget-title{display:block;color:#00252d;padding-top:5px;padding-bottom:5px}#secondary .widget_nav_menu{margin-bottom:10px}#secondary ul li{list-style:circle;color:#00252d;margin-left:20px;font-size:15px}.widget .is-divider{margin-top:4px;margin-bottom:5px;max-width:100%;height:2px;background:#f97f29}.page-wrapper{background:#eaeaea;padding-top:20px;padding-bottom:20px}.white.is-outline:hover{border-color: #b9b9b9;}.meta-date-capnhat, .luot-xem {
+		padding-right: 13px;
+}.info-tieu-de a {
+	color: gray;
+}.body-section .post-item .chi-phi-du-kien {display:none}.info-tieu-de {
+	margin-top: 10px;
+	font-size: 14px;
+	color: #8a8a8a;
+}.kien-thuc .post-item .chi-phi-du-kien{display:none}.tabbed-content .nav>li.active>a{padding:5px 12px;color:white;letter-spacing:0;font-weight:normal;font-size:15px}.tabbed-content .nav{background:#efefef;height:35px}.header-nav>li>a{font-weight:500;padding:5px 13px;letter-spacing:0}.header-nav>li{margin:0}.header-nav>li>a:hover,.header-nav .current-menu-item a,.nav>li.active>a{background:#055263;padding:8px 13px}.section-title-container{margin-bottom:10px}.section-title a{font-size:14px;margin-left:auto;font-weight:400;color:#00252d}.section-title-normal{border-bottom:2px solid #00252d}.section-title-normal span{font-size:16px; border-bottom:2px solid #055263}.cot9 .post-item .box-text p{font-size:13px} .cot9 .post-item .box-text .post-title{    font-weight: normal;
+	font-size: 15px;
+	text-transform: none;
+	line-height: 22px}.bai-viet .post-item .box-vertical p{font-size:13px} .bai-viet .post-item .box-vertical .post-title{font-weight: normal;
+		font-size: 16px;
+		line-height: 22px;}.cot9 .post-item .box-text .post-title:hover{text-decoration:underline}.vi-sao .large-12{padding:0 15px 0}.vi-sao .row12-bottom p{margin-bottom:0}.vi-sao .row12-bottom{padding:0 15px 10px!important}.bai-viet .row .col .post-item{margin-bottom:8px}.cot9 .post-item .box-text .is-divider{max-width:100%;height:1px}li.html input{margin:0;background:#f7f7f7;height:35px;border-top-left-radius:3px;border-bottom-left-radius:3px;box-shadow:0 0 0}.header-search-form .button.secondary:not(.is-outline){height:35px;width:35px;border-top-right-radius:3px;border-bottom-right-radius:3px}.flickity-prev-next-button{top:80%!important}.flickity-prev-next-button.previous{right:7%!important;left:auto;background:rgba(0,0,0,.73)}.flickity-prev-next-button.next{background:rgba(0,0,0,.73)}.slider-section .cot3 .mb{margin-bottom:5px}.sp-tk-tham-khao .slider-nav-reveal .flickity-prev-next-button.previous,.sp-tk-tham-khao .slider-nav-reveal .flickity-prev-next-button.next,.sp-tk-tham-khao .slider-nav-reveal .is-divider{display:none}.sp-tk-tham-khao,.quy-trinh,.ban-do,.bai-viet-moi{padding-left:0!important;padding-right:0!important}.nguon-luc{padding-left:10px!important;padding-right:0!important}.blog-archive .archive-page-header .row .large-12{padding:0 5px 15px}.blog-archive .post-sidebar{padding-left:0!important;padding-right:20px!important}.blog-archive .large-9 .post-item{padding:0 5px 15px}.blog-archive .large-9 .post-item .box-text{padding-bottom:5px}.blog-archive .large-9 .box-blog-post .is-divider{height:1px;max-width:100%}.blog-archive .large-9 .post-date{display:none}.blog-archive .archive-page-header .taxonomy-description{background:white;padding:10px;border-radius:3px;border:1px solid #dadada;text-align:left}.blog-archive .large-9 .post-item .col-inner .box{background:white;padding:10px;border-radius:3px;border:1px solid #e0e0e0}.page-title{position:relative;color:#0b8c33;padding-bottom:10px}.blog-single .article-inner{background: white;
+			border-radius: 3px;
+			border: 1px solid #e0e0e0;
+			padding: 10px;}
+.thiet-ke-noi-that .cot9 .portfolio-box .portfolio-box-title:hover{text-decoration:underline}
+.cate-page .tabbed-content .post-item .post-title, .sp-tk-tham-khao .post-item .post-title{font-weight:normal; font-size:15px; line-height:22px}
+.nguon-luc-col .col-inner{border:1px solid gray}
+.cate-page .col{padding-bottom:0}
+.module-taisao {
+	float: left;
+	margin-bottom: 26px;
+	width: 100%;
+}.module-taisao > .best-bic {
+	border-bottom: 1px solid #e5e5e5;
+	font-size: 28px;
+	font-weight: lighter;
+	margin-bottom: 26px;
+	padding-bottom: 6px;
+	text-align: center;
+	text-transform: uppercase;
+}.module-taisao > .best-bic .after-good {
+	color: #015920;
+	font-weight: bold;
+}.module-trung .taisao-left, .module-trung .taisao-right {
+	float: left;
+	width: 50%;
+}.module-trung .taisao-left {
+	background: rgba(0, 0, 0, 0) url("../../uploads/2018/04/chu-chu.png") no-repeat scroll right center;
+	padding-right: 39px;
+}
+.taisao-left .item-ts {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: end;
+	-ms-flex-pack: end;
+	justify-content: flex-end;
+	margin-bottom: 12px;
+}.item-ts:nth-child(5n+1) .bic-one {
+	color: #015920;
+}.item-ts .bic-one {
+	font-size: 42px;
+	font-weight: bold;
+	line-height: 1;
+	margin-right: 15px;
+}.item-ts .bic-two {
+	font-size: 14px;
+	width: 41%;
+}.module-trung p {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}.bic-hay {
+	display: none;
+}.module-trung .taisao-right {
+	padding-left: 26px;
+}.module-trung .taisao-left, .module-trung .taisao-right {
+	float: left;
+	width: 50%;
+}.item-ts-r {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin-bottom: 12px;
+}.item-ts-r .bic-one {
+	margin-right: 5px;
+}.item-ts-r .bic-one i {
+	color: #015920;
+	font-size: 18px;
+}.item-ts-r .bic-two {
+	display: block;
+}.blog-single .footer.entry-meta{font-size:15px}
+.html-before-comments{    background: white;
+	padding: 10px;}
+.kien-thuc .post-item{margin-bottom:10px}
+.phonering-alo-phone{top:auto}.cate-page .tabbed-content .post-item .post-title{height:44px; overflow:hidden}
+.blog-archive .page-title{display:none}.blog-archive .post-item .box-text p, .page-right-sidebar .post-item .box-text p{font-size:13px}
+.blog-archive .page-title, .blog-archive .post-item .post-title, .page-right-sidebar .post-item .post-title{height:40px; overflow:hidden; font-size:15px; font-weight:normal}
+#related_posts li a img{height:177px}
+
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+	.tabbed-content .nav>li>a{font-size:10px}
+	.tabbed-content .nav>li.active>a{font-size:12px}
+	.post-item{flex-basis:50% !important}
+	.bai-viet .row .medium-9 .row-xsmall>.col{padding: 0 5px 5px;}.footer-block .small-6{    flex-basis: 100%; max-width:100%}.blog-single .large-9{padding-right:15px}.page-wrapper .large-3{padding-left:15px}.blog-archive .post-sidebar{padding-left:10px!important; padding-right:10px !important}.blog-archive .row-masonry .col{width:50%}
+	#related_posts ul li{width:50%}
+}
